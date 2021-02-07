@@ -1,7 +1,7 @@
 {
-  "name": "vue-clicli",
+  "name": "clili",
   "version": "1.0.0",
-  "description": "an individual vue cli",
+  "description": "my cli for front and backend separation project",
   "main": "index.js",
   "bin": {
     "li": "index.js"
@@ -13,7 +13,10 @@
     "vue",
     "cli",
     "li",
-    "vue-cli"
+    "vue-cli",
+    "node",
+    "koa",
+    "express"
   ],
   "author": "lili",
   "license": "MIT",
